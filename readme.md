@@ -6,5 +6,5 @@
 - Area of Triangle
 - Area of Rectangle
 - Area of Circle
-- Area of Square
+- Area of Square  
 Make sure to commit the code with the appropriate message and track the github activities.

@@ -26,9 +26,9 @@ public class geoshape {
         return side * side;
     }
 
-/**
- * The main function calculates and prints the areas of a triangle, rectangle, circle, and square.
- */
+    /**
+     * The main function calculates and prints the areas of a triangle, rectangle, circle, and square.
+     */
     public static void main(String[] args) {
         // Main class
         double triangleArea = calculateTriangleArea(5, 8);
@@ -42,6 +42,7 @@ public class geoshape {
 
         double squareArea = calculateSquareArea(4);
         System.out.println("Area of Square: " + squareArea);
+    }
 }
 
 
